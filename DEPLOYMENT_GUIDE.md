@@ -38,6 +38,34 @@ This URL contains the complete, production-ready application with all features i
    - "Regenerate Section" functionality
    - Inspiration panel with past successful applications
 
+4. **AI Thinktank Workspace** (`/thinktank`)
+   - Collaborative AI research team for grant proposal development
+   - Based on AI-Researcher architecture (https://github.com/HKUDS/AI-Researcher.git)
+   - Select promising grant and run multi-agent AI research thinktank
+   - Real-time animated visualization of 5 AI researchers collaborating:
+     * Lead Researcher (purple) - Analyzes requirements
+     * Domain Expert (blue) - Researches innovation opportunities  
+     * Innovation Specialist (green) - Proposes novel solutions
+     * Technical Writer (cyan) - Drafts proposal sections
+     * Critical Reviewer (orange) - Ensures quality
+   - Low-fidelity office workspace with animated avatars
+   - Speech bubbles showing real-time agent communication
+   - Movement animations between desks, whiteboards, meeting table
+   - 7 research phases with visual progression:
+     * Phase 1: Initial Analysis (individual desks)
+     * Phase 2: Brainstorming (meeting table)
+     * Phase 3: Deep Research (computers & whiteboard)
+     * Phase 4: Synthesis (lead at whiteboard)
+     * Phase 5: Writing (technical writer drafting)
+     * Phase 6: Peer Review (document exchange)
+     * Phase 7: Finalization (team celebration)
+   - Live activity feed with status badges
+   - Generated research paper with editable sections
+   - Export options: PDF, Word, LaTeX
+   - "Apply to Grant Writer" button to transfer output
+   - Powered by Gemini 3 Pro API (placeholder)
+   - Image generation via Nanobanana (placeholder)
+
 ### 5 Additional Features
 
 4. **Application Tracker** (`/tracker`)
