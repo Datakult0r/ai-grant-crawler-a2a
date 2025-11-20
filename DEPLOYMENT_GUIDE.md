@@ -186,8 +186,7 @@ The application currently uses mock data. To connect real grant sources:
    ```bash
    VITE_OPENAI_API_KEY=your_key_here
    VITE_GRANT_API_URL=your_api_url
-   VITE_SHEETS_API_KEY=your_sheets_key
-   ```
+   VITE_SHEETS_API_KEY=AIzaSyABg9i9ob1O8deriyOao9EToQAtHA6afs4   ```
 
 3. **Google Sheets Integration:**
    - Already created: https://docs.google.com/spreadsheets/d/1rd14WKkADxp8CjSBUAM7Q94ZG61FJpoQh7QrO_wHHi8
